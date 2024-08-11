@@ -17,6 +17,6 @@ Tecnologias Utilizadas
   </ul>
 Bibliotecas
   <ul>
-   <li>Pandas: Para manipulação de dados e operações de ETL.</li>
-   <li>Pandas: json: Para trabalhar com dados no formato JSON.</li>
+   <li>csv: Para trabalhar com dados no formato CSV.</li>
+   <li>json: Para trabalhar com dados no formato JSON.</li>
   </ul>
